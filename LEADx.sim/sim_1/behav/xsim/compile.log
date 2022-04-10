@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/LEADx/LEADx.srcs/sources_1/new/AAd1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AAd1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/LEADx/LEADx.srcs/sources_1/new/AAd2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AAd2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/LEADx/LEADx.srcs/sources_1/new/Add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/LEADx/LEADx.srcs/sources_1/new/Addm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/LEADx/LEADx.srcs/sources_1/new/Leadx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Leadx
